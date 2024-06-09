@@ -37,7 +37,7 @@ Optionally, you can add '-kc' as a command line argument to see the recommended 
 ## Flask Web App
 <img src="https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting/blob/master/Screenshots/Flask-App.png" width="922" height="580" />
 
-This repo also includes a small Flask application to help view the data from this tool in the browser.  To run it:
+This repo also includes a small Flask application to help view the data from this tool in the browser. To run it:
 ```
 cd Flask
 flask --debug run
